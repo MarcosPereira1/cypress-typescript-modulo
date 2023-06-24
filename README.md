@@ -85,5 +85,3 @@ The template project includes a configuration file named `cypress.json`. This fi
 ## License
 
 This project is licensed under the MIT License. Feel free to modify and use it according to your needs.
-```
-```
